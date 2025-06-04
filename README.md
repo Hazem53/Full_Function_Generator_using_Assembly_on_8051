@@ -1,0 +1,1 @@
+U can find The code in the assembly language on the Microcontroler 8051 with the simulation on proteus program (in the zip_file). This project is about full Function_Generator that provides u with all the waves u need with different frequencies
